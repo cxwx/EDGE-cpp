@@ -1,6 +1,6 @@
 # EDGE C++
 
-C++ version of the EDGE (Electron Diffusion and Gamma rays to the Earth) project, migrated from Python.
+C++ version of the [EDGE](https://github.com/rlopezcoto/EDGE) (Electron Diffusion and Gamma rays to the Earth) project, migrated from Python.
 
 ## Overview
 
