@@ -33,7 +33,7 @@ EDGE C++ calculates:
 
 #### macOS
 ```bash
-brew install cmake eigen gsl gamera
+brew install cmake eigen gsl cxwx/cxbrew/gamera
 ```
 
 #### Ubuntu/Debian
